@@ -4,11 +4,11 @@
 - Rule of Thumb: **“wants to be in game opposite a random 8 HCP”**
 
 ### 1♢ Opening
-- Natural good 10 to 15 HCP, or 11-13 NT 
+- Natural 11 to 15 HCP, or 11-13 NT
 - Denies a 5-card major unless has 6 diamonds, may be as short as 2 cards
 ### 1M Opening
 - 5 Major
-- Good 10 - 15 HCP 
+- 11-15 HCP
 ### **1NT** Opening
 - 14-16P; balanced; includes 5M(332) or 5m(422)
 - suit with single A,K,Q
@@ -16,15 +16,15 @@
 ### **2NT** Opening
 20-21P, balanced
 ### **2♣** Opening
-- 6+ cards, good 10 to 15 HCP, not forcing; 
+- 6+ cards, 11-15 HCP, not forcing;
 - may have a side 4- or 5-card suit
 ### 2♢ Opening
-- Artificial; Good 10 to 15 HCP
+- Artificial; 11-15 HCP
 - 4414/4405/4315/3415 exactly **(short diamonds)**
 ### Weak two Opening
-**2♡/2♠，弱二** [[#^812635|后续]]｜p178
-- 6-11p，6张，无其他4张高花
-    - 第一、二家：6-11hcp，保证[AKQ, 2] or [AKQJT, 3]
+**2♡/2♠，弱二**｜2o1, p178
+- 6-10p，6张，无其他4张高花
+    - 第一、二家：6-10hcp，保证[AKQ, 2] or [AKQJT, 3]
     - 第四家：10-13hcp，好牌好套 | [[#^19db23|平衡位置]]
 ### 阻击叫
 **3♣ ~ 5♢，阻击叫**｜p175
